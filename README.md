@@ -7,9 +7,9 @@
 
 ## GitHub Stats 📈
 
-![XxanacarolinaxX GitHub stats](https://github-readme-stats.vercel.app/api?username=xxanacarolinaxx&show_icons=true&theme=radical)
+![DevAnaCarolina GitHub stats](https://github-readme-stats.vercel.app/api?username=xxanacarolinaxx&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxanacarolinaxx&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devanacarolina&layout=compact)
 
 
 ### Programando com Kotlin e transformando ideias em realidade mobile! 🚀📱
