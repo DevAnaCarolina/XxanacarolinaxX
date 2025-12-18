@@ -7,7 +7,7 @@
 
 ## GitHub Stats 📈
 
-![DevAnaCarolina GitHub stats](https://github-readme-stats.vercel.app/api?username=xxanacarolinaxx&show_icons=true&theme=radical)
+![DevAnaCarolina GitHub stats](https://github-readme-stats.vercel.app/api?username=devanacarolina&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devanacarolina&layout=compact)
 
